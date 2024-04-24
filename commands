@@ -1,0 +1,7 @@
+2> -- redirect 
+/dev/null -- like a recycle clearing, anything that goes in dev null is gone 
+1 = standard output-stdin
+2 = standard error-stderr
+! = negation command (if not)
+command -v = checking command 
+>> = Append
