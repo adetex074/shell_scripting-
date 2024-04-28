@@ -1,1 +1,4 @@
 this is an incredible project, so far i have further learn how to connect aws cli to my aws and configure it, i downloaded pip on my aws cli, i was able to write script that create EC2 instance and S3 buckets using variety of bash scripting resources
+
+
+In this project, i learn variety of error handling techniques, user input error, the use of exit code and correct application of echo statement to guide me. Also, i learn how to rearrange my script when there is need to like in the case of s3 bucket re-creation, we can append the new script into null, therefore it will not run while creating a new instance 
